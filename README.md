@@ -26,6 +26,7 @@ Olá, me chamo <b>Plinio Gonçalves</b>, tenho 28 anos e amo tecnologia. Procuro
   - JavaScript
   - C++
   - Python
+  - Java
 
   ## 📈 Learnin':
   - ReactJS
@@ -36,7 +37,8 @@ Olá, me chamo <b>Plinio Gonçalves</b>, tenho 28 anos e amo tecnologia. Procuro
   
 
   ## 🧠 Tools:
-  - Git
+  - Git / GitHub
+  - Git Flow
   - Figma
   - Trello
   - Linux
