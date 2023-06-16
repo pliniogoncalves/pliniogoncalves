@@ -29,16 +29,17 @@ Hello, my name is Plinio Gonçalves, I'm 28 years old and I love technology. I t
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div>
+
+  <br />
   
   ## 📈 Learnin':
   <div style="display: inline_block"> <br/>
-    <img align="center" alt="ReactJS" src="" />
-    <img align="center" alt="AngulaJS" src="" />
-    <img align="center" alt="Java" src="" />
-    <img align="center" alt="Java" src="" />
-    <img align="center" alt="Java" src="" />
-    <img align="center" alt="Java" src="" />
+    <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="AngulaJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+    <img align="center" alt="Test" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
   </div>
+
+  <br />
 
   ## 🧠 Tools:
   <div style="display: inline_block"> <br/>
@@ -46,9 +47,11 @@ Hello, my name is Plinio Gonçalves, I'm 28 years old and I love technology. I t
     <img align="center" alt="Git Flow" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   </div>
+
+  <br />
   
 ###  <summary><b>📊 GitHub Stats</b></summary>
   <br/>
