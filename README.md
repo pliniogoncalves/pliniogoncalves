@@ -11,8 +11,8 @@ Hello, my name is Plinio Gonçalves, I'm 28 years old and I love technology. I t
 ## 🪐 About me
   - 🎓 Degree in Computer Engineering (IFCE) starts in 2021
   - 🎓 Degree in Systems Analysis and Development (UNIFOR) starts in 2023
-  - 💻 Learning Front-End and QA
-  - :zap: Studying React, Angular, Vue.Js and Software Testing
+  - 💻 Learning Full-Stack
+  - :zap: Studying Python, Java, React, Angular, Vue.Js and Software Testing
   - 🏊‍♂️ 🏃‍♂️ 🏋️‍♂️ 👨🏻‍💻 💻 🎧
 
 <br />
